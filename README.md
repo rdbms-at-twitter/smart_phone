@@ -2,7 +2,7 @@
 Smart Phone Related Projects
 
 1: Simple Calculation of BMI with Android App.
-※　自分の環境で利用する場合はパスを変更してください。
+※　自分の環境で利用する場合はパスを変更してください。<br>
 ※　モジュールが利用出来ない場合は適宜、追加及び変更してください。
 
 <img src="http://variable.jp/wp-content/uploads/2018/07/FirstAndroidApp.jpg" height="300" alt="Basic App on Android" title="Android">
